@@ -83,63 +83,53 @@ Ce projet illustre l'utilisation de diverses fonctionnalités Java et met en œu
 
 <div align="center">
 
-### Interface principale
 
 <img src="Images/Screenshot 2025-12-23 135710.png" alt="Screenshot 1" width="800"/>
 
 <br><br>
 
-### Fonctionnalités
 
 <table>
 <tr>
 <td align="center">
 <img src="Images/Screenshot 2025-12-23 135806.png" alt="Screenshot 2" width="400"/>
 <br>
-<em>Vue d'ensemble</em>
 </td>
 <td align="center">
 <img src="Images/Screenshot 2025-12-23 135854.png" alt="Screenshot 3" width="400"/>
 <br>
-<em>Configuration</em>
 </td>
 </tr>
 </table>
 
 <br>
 
-### Démonstrations
 
 <table>
 <tr>
 <td align="center">
 <img src="Images/Screenshot 2025-12-23 140745.png" alt="Screenshot 4" width="400"/>
 <br>
-<em>Fonctionnalité 1</em>
 </td>
 <td align="center">
 <img src="Images/Screenshot 2025-12-23 140753.png" alt="Screenshot 5" width="400"/>
 <br>
-<em>Fonctionnalité 2</em>
 </td>
 </tr>
 <tr>
 <td align="center">
 <img src="Images/Screenshot 2025-12-23 141016.png" alt="Screenshot 6" width="400"/>
 <br>
-<em>Fonctionnalité 3</em>
 </td>
 <td align="center">
 <img src="Images/Screenshot 2025-12-23 141043.png" alt="Screenshot 7" width="400"/>
 <br>
-<em>Fonctionnalité 4</em>
 </td>
 </tr>
 </table>
 
 <br>
 
-### Résultat final
 
 <img src="Images/Screenshot 2025-12-23 141239.png" alt="Screenshot 8" width="800"/>
 
